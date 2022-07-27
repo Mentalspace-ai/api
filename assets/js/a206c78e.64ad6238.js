@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmentalspace_docs=self.webpackChunkmentalspace_docs||[]).push([[373],{93579:function(e){e.exports=JSON.parse('{"permalink":"/api/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
